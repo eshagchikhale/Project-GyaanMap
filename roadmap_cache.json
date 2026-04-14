@@ -1,0 +1,1079 @@
+{
+  "Technical Program Manager": {
+    "career": "Technical Program Manager",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Understanding the Role",
+            "link": "https://www.atlassian.com/blog/teamwork/what-is-a-technical-program-manager"
+          },
+          {
+            "title": "Basic Project Management",
+            "link": "https://www.coursera.org/learn/uva-darden-project-management"
+          },
+          {
+            "title": "Introduction to Agile & Scrum",
+            "link": "https://www.atlassian.com/agile"
+          },
+          {
+            "title": "Foundational Technical Concepts",
+            "link": "https://www.codecademy.com/learn/learn-how-to-code"
+          },
+          {
+            "title": "Effective Communication",
+            "link": "https://www.coursera.org/learn/communication-in-the-workplace"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Advanced Agile & Program Management",
+            "link": "https://www.pmi.org/disciplines/agile"
+          },
+          {
+            "title": "Systems Thinking & Architecture",
+            "link": "https://www.coursera.org/learn/systems-thinking"
+          },
+          {
+            "title": "Technical Fundamentals for TPMs",
+            "link": "https://cloud.google.com/learn/what-is-cloud-computing"
+          },
+          {
+            "title": "Stakeholder Management & Leadership",
+            "link": "https://www.coursera.org/learn/leadership-influence"
+          },
+          {
+            "title": "Risk Management & Mitigation",
+            "link": "https://www.pmi.org/learning/library/risk-management-7092"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Strategic Planning & Roadmapping",
+            "link": "https://www.productplan.com/learn/product-roadmap/"
+          },
+          {
+            "title": "Advanced Technical Concepts (DevOps, Security, Cloud)",
+            "link": "https://aws.amazon.com/what-is/devops/"
+          },
+          {
+            "title": "Budgeting & Financial Acumen",
+            "link": "https://www.coursera.org/learn/finance-managers"
+          },
+          {
+            "title": "Change Management",
+            "link": "https://www.prosci.com/resources/articles/change-management-methodology"
+          },
+          {
+            "title": "Organizational Dynamics",
+            "link": "https://hbr.org/topic/subject/organizational-culture"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Personal Project",
+            "link": "https://www.youtube.com/results?search_query=Personal+Project+tutorial"
+          },
+          {
+            "title": "Open Source Contribution",
+            "link": "https://www.youtube.com/results?search_query=Open+Source+Contribution+tutorial"
+          },
+          {
+            "title": "Process Improvement Case Study",
+            "link": "https://www.youtube.com/results?search_query=Process+Improvement+Case+Study+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "_meta": {
+    "last_updated": 1775562722
+  },
+  "IT Support Engineer": {
+    "career": "IT Support Engineer",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Computer Hardware and Software Basics",
+            "link": "https://www.coursera.org/professional-certificates/google-it-support"
+          },
+          {
+            "title": "Operating Systems: Windows and Linux Fundamentals",
+            "link": "https://www.coursera.org/learn/os-power-user"
+          },
+          {
+            "title": "Basic Networking Concepts",
+            "link": "https://www.coursera.org/learn/computer-networking"
+          },
+          {
+            "title": "Command Line Interface Basics",
+            "link": "https://www.codecademy.com/learn/learn-the-command-line"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "System Administration and IT Infrastructure Services",
+            "link": "https://www.coursera.org/learn/system-administration-it-infrastructure-services"
+          },
+          {
+            "title": "Network Protocols and Security",
+            "link": "https://www.coursera.org/learn/computer-networking"
+          },
+          {
+            "title": "Cloud Computing Fundamentals (AWS, Azure)",
+            "link": "https://aws.amazon.com/getting-started/cloud-essentials/"
+          },
+          {
+            "title": "IT Security and Cybersecurity Principles",
+            "link": "https://www.coursera.org/learn/it-security"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "IT Automation with Python",
+            "link": "https://www.coursera.org/professional-certificates/google-it-automation"
+          },
+          {
+            "title": "Active Directory and Identity Management",
+            "link": "https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/"
+          },
+          {
+            "title": "Virtualization and Containerization (VMware, Docker)",
+            "link": "https://www.coursera.org/learn/virtualization"
+          },
+          {
+            "title": "IT Service Management and ITIL Framework",
+            "link": "https://www.axelos.com/best-practice-solutions/itil"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Build and Troubleshoot a Desktop Computer",
+            "link": "https://www.youtube.com/results?search_query=Build+and+Troubleshoot+a+Desktop+Computer+tutorial"
+          },
+          {
+            "title": "Set Up a Home Network with Router and Wireless Security",
+            "link": "https://www.youtube.com/results?search_query=Set+Up+a+Home+Network+with+Router+and+Wireless+Security+tutorial"
+          },
+          {
+            "title": "Create Scripts to Automate Common System Admin Tasks",
+            "link": "https://www.youtube.com/results?search_query=Create+Scripts+to+Automate+Common+System+Admin+Tasks+tutorial"
+          },
+          {
+            "title": "Configure a Virtual Machine Lab Environment",
+            "link": "https://www.youtube.com/results?search_query=Configure+a+Virtual+Machine+Lab+Environment+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "UI/UX Designer": {
+    "career": "UI/UX Designer",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Understanding UI/UX Design",
+            "link": "https://www.interaction-design.org/literature/article/a-beginner-s-guide-to-ui-design"
+          },
+          {
+            "title": "Design Tools: Figma",
+            "link": "https://www.figma.com/resources/learn-design/"
+          },
+          {
+            "title": "Design Principles & Heuristics",
+            "link": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+          },
+          {
+            "title": "Introduction to User Research",
+            "link": "https://www.usertesting.com/blog/user-research-beginners-guide"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Wireframing & Prototyping",
+            "link": "https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/"
+          },
+          {
+            "title": "Visual Design: Color & Typography",
+            "link": "https://www.interaction-design.org/literature/article/how-to-use-color-theory-and-typography-in-ui-design"
+          },
+          {
+            "title": "Interaction Design",
+            "link": "https://www.uxpin.com/studio/blog/complete-beginner-guide-interaction-design/"
+          },
+          {
+            "title": "Usability Testing Methods",
+            "link": "https://www.nngroup.com/articles/usability-testing-101/"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "UX Strategy & Information Architecture",
+            "link": "https://www.uxmatters.com/mt/archives/2012/05/so-you-want-to-be-a-ux-strategist.php"
+          },
+          {
+            "title": "Designing for Accessibility",
+            "link": "https://www.w3.org/WAI/fundamentals/accessibility-intro/"
+          },
+          {
+            "title": "UI Animation & Micro-interactions",
+            "link": "https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9"
+          },
+          {
+            "title": "Design Systems",
+            "link": "https://www.invisionapp.com/inside-design/guide-to-design-systems/"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Redesign an existing website or app",
+            "link": "https://www.youtube.com/results?search_query=Redesign+an+existing+website+or+app+tutorial"
+          },
+          {
+            "title": "Design a complete flow for a new product",
+            "link": "https://www.youtube.com/results?search_query=Design+a+complete+flow+for+a+new+product+tutorial"
+          },
+          {
+            "title": "Create a portfolio case study",
+            "link": "https://www.youtube.com/results?search_query=Create+a+portfolio+case+study+tutorial"
+          },
+          {
+            "title": "Contribute to an open-source design system",
+            "link": "https://www.youtube.com/results?search_query=Contribute+to+an+open-source+design+system+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "Security Engineer": {
+    "career": "Security Engineer",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Computer Networking Fundamentals",
+            "link": "https://www.coursera.org/learn/computer-networking"
+          },
+          {
+            "title": "How Operating Systems Work",
+            "link": "https://www.coursera.org/learn/os"
+          },
+          {
+            "title": "Foundational Security Principles (CIA Triad)",
+            "link": "https://www.ciscopress.com/articles/article.asp?p=1998559"
+          },
+          {
+            "title": "Introduction to Linux Command Line",
+            "link": "https://ubuntu.com/tutorials/command-line-for-beginners"
+          },
+          {
+            "title": "Basic Scripting with Python or PowerShell",
+            "link": "https://www.learnpython.org/"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Defensive Cybersecurity Operations",
+            "link": "https://tryhackme.com/path/outline/defense"
+          },
+          {
+            "title": "Network Defense & Security Controls",
+            "link": "https://www.coursera.org/learn/network-defense-cybersecurity"
+          },
+          {
+            "title": "Introduction to Cloud Security (AWS or Azure)",
+            "link": "https://aws.amazon.com/training/learn-about/security/"
+          },
+          {
+            "title": "Web Application Security Fundamentals",
+            "link": "https://owasp.org/www-project-top-ten/"
+          },
+          {
+            "title": "SIEM & Security Monitoring Basics",
+            "link": "https://www.youtube.com/playlist?list=PLQ_3Ww9FUPWQdFde-NcYWs9Y9k4Q7xnsH"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Advanced Persistent Threats & Threat Hunting",
+            "link": "https://cybersecurity.att.com/solutions/cyber-threat-hunting"
+          },
+          {
+            "title": "Cloud Security Architecture & Identity Management",
+            "link": "https://learn.microsoft.com/en-us/azure/security/fundamentals/"
+          },
+          {
+            "title": "Offensive Security & Penetration Testing",
+            "link": "https://www.offsec.com/"
+          },
+          {
+            "title": "Incident Response & Forensics",
+            "link": "https://www.sans.org/cyber-security-courses/incident-response-cyber-security/"
+          },
+          {
+            "title": "Security Automation & Orchestration",
+            "link": "https://www.ansible.com/"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": []
+      }
+    ]
+  },
+  "Data Scientist": {
+    "career": "Data Scientist",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Mathematics & Statistics",
+            "link": "https://www.youtube.com/results?search_query=Mathematics+&+Statistics+tutorial"
+          },
+          {
+            "title": "Programming Fundamentals",
+            "link": "https://www.youtube.com/results?search_query=Programming+Fundamentals+tutorial"
+          },
+          {
+            "title": "Data Wrangling with SQL",
+            "link": "https://www.youtube.com/results?search_query=Data+Wrangling+with+SQL+tutorial"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Data Analysis & Visualization",
+            "link": "https://www.youtube.com/results?search_query=Data+Analysis+&+Visualization+tutorial"
+          },
+          {
+            "title": "Machine Learning Fundamentals",
+            "link": "https://www.youtube.com/results?search_query=Machine+Learning+Fundamentals+tutorial"
+          },
+          {
+            "title": "Intro to Big Data Tools",
+            "link": "https://www.youtube.com/results?search_query=Intro+to+Big+Data+Tools+tutorial"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Advanced Machine Learning",
+            "link": "https://www.youtube.com/results?search_query=Advanced+Machine+Learning+tutorial"
+          },
+          {
+            "title": "Deployment & MLOps",
+            "link": "https://www.youtube.com/results?search_query=Deployment+&+MLOps+tutorial"
+          },
+          {
+            "title": "Specialized Topics (e.g., NLP, CV)",
+            "link": "https://www.youtube.com/results?search_query=Specialized+Topics+(e.g.,+NLP,+CV)+tutorial"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "End-to-End Project: Build a model to predict house prices. Collect data, clean it, build a model, and create a simple web app for predictions.",
+            "link": "https://www.youtube.com/results?search_query=End-to-End+Project:+Build+a+model+to+predict+house+prices.+Collect+data,+clean+it,+build+a+model,+and+create+a+simple+web+app+for+predictions.+tutorial"
+          },
+          {
+            "title": "Portfolio Project: Create a project that tells a story with data, from a dataset you find interesting, and publish your analysis on GitHub.",
+            "link": "https://www.youtube.com/results?search_query=Portfolio+Project:+Create+a+project+that+tells+a+story+with+data,+from+a+dataset+you+find+interesting,+and+publish+your+analysis+on+GitHub.+tutorial"
+          },
+          {
+            "title": "Capstone Project: Tackle a complex problem using a large dataset, combining multiple skills like big data processing, machine learning, and cloud deployment.",
+            "link": "https://www.youtube.com/results?search_query=Capstone+Project:+Tackle+a+complex+problem+using+a+large+dataset,+combining+multiple+skills+like+big+data+processing,+machine+learning,+and+cloud+deployment.+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "Systems Engineer": {
+    "career": "Systems Engineer",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Operating Systems",
+            "link": "https://www.coursera.org/learn/os"
+          },
+          {
+            "title": "Networking Fundamentals",
+            "link": "https://www.coursera.org/learn/computer-networking"
+          },
+          {
+            "title": "Scripting Basics (Python/Bash)",
+            "link": "https://www.learnpython.org/"
+          },
+          {
+            "title": "Version Control with Git",
+            "link": "https://www.coursera.org/learn/introduction-to-version-control-with-git"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Infrastructure as Code (Terraform)",
+            "link": "https://learn.hashicorp.com/collections/terraform/aws-get-started"
+          },
+          {
+            "title": "Configuration Management (Ansible)",
+            "link": "https://www.royalcyber.com/blog/ansible-tutorial-for-beginners-part-1/"
+          },
+          {
+            "title": "Containerization with Docker",
+            "link": "https://docs.docker.com/get-started/"
+          },
+          {
+            "title": "Cloud Platforms (AWS/Azure/GCP)",
+            "link": "https://aws.amazon.com/getting-started/"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Container Orchestration (Kubernetes)",
+            "link": "https://kubernetes.io/docs/tutorials/kubernetes-basics/"
+          },
+          {
+            "title": "CI/CD Pipelines (Jenkins/GitLab CI)",
+            "link": "https://www.jenkins.io/doc/tutorials/"
+          },
+          {
+            "title": "Monitoring & Observability (Prometheus/Grafana)",
+            "link": "https://prometheus.io/docs/introduction/overview/"
+          },
+          {
+            "title": "Systems Design & Architecture",
+            "link": "https://www.edx.org/learn/system-architecture"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Automate the deployment of a web application using a cloud provider and a configuration management tool.",
+            "link": "https://www.youtube.com/results?search_query=Automate+the+deployment+of+a+web+application+using+a+cloud+provider+and+a+configuration+management+tool.+tutorial"
+          },
+          {
+            "title": "Build a CI/CD pipeline for a simple application that automatically tests and deploys code.",
+            "link": "https://www.youtube.com/results?search_query=Build+a+CI/CD+pipeline+for+a+simple+application+that+automatically+tests+and+deploys+code.+tutorial"
+          },
+          {
+            "title": "Containerize an application and deploy it to a managed Kubernetes cluster.",
+            "link": "https://www.youtube.com/results?search_query=Containerize+an+application+and+deploy+it+to+a+managed+Kubernetes+cluster.+tutorial"
+          },
+          {
+            "title": "Design and diagram a resilient and scalable system architecture for a given use case.",
+            "link": "https://www.youtube.com/results?search_query=Design+and+diagram+a+resilient+and+scalable+system+architecture+for+a+given+use+case.+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "Tech Lead": {
+    "career": "Tech Lead",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Core Programming Proficiency",
+            "link": "https://www.freecodecamp.org/"
+          },
+          {
+            "title": "Version Control with Git",
+            "link": "https://git-scm.com/doc"
+          },
+          {
+            "title": "Basic Software Design & Architecture",
+            "link": "https://www.coursera.org/learn/software-architecture"
+          },
+          {
+            "title": "Introduction to Agile & Scrum",
+            "link": "https://www.scrum.org/resources/what-is-scrum"
+          },
+          {
+            "title": "Foundational Communication Skills",
+            "link": "https://www.coursera.org/learn/communication-skills-teamwork"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "System Design Principles",
+            "link": "https://github.com/donnemartin/system-design-primer"
+          },
+          {
+            "title": "Technical Project Management",
+            "link": "https://www.coursera.org/professional-certificates/google-project-management"
+          },
+          {
+            "title": "Code Review & Mentorship",
+            "link": "https://google.github.io/eng-practices/review/"
+          },
+          {
+            "title": "Building Effective Teams",
+            "link": "https://www.manager-tools.com/"
+          },
+          {
+            "title": "Basics of DevOps & CI/CD",
+            "link": "https://www.atlassian.com/devops"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Advanced Architecture Patterns",
+            "link": "https://martinfowler.com/articles/enterprisePatterns.html"
+          },
+          {
+            "title": "Stakeholder Management & Communication",
+            "link": "https://www.coursera.org/learn/engineering-management"
+          },
+          {
+            "title": "Strategic Planning & Roadmapping",
+            "link": "https://www.mindtheproduct.com/"
+          },
+          {
+            "title": "Budgeting & Resource Allocation",
+            "link": "https://www.pmi.org/"
+          },
+          {
+            "title": "Leading Organizational Change",
+            "link": "https://www.prosci.com/"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Lead a small project from kickoff to delivery",
+            "link": "https://www.youtube.com/results?search_query=Lead+a+small+project+from+kickoff+to+delivery+tutorial"
+          },
+          {
+            "title": "Mentor a junior developer on a task",
+            "link": "https://www.youtube.com/results?search_query=Mentor+a+junior+developer+on+a+task+tutorial"
+          },
+          {
+            "title": "Refactor a legacy code module",
+            "link": "https://www.youtube.com/results?search_query=Refactor+a+legacy+code+module+tutorial"
+          },
+          {
+            "title": "Design a technical roadmap for a new feature",
+            "link": "https://www.youtube.com/results?search_query=Design+a+technical+roadmap+for+a+new+feature+tutorial"
+          },
+          {
+            "title": "Facilitate a post-mortem meeting on a project",
+            "link": "https://www.youtube.com/results?search_query=Facilitate+a+post-mortem+meeting+on+a+project+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "Product Manager": {
+    "career": "Product Manager",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Introduction to Product Management",
+            "link": "https://www.coursera.org/learn/introduction-to-product-management"
+          },
+          {
+            "title": "Understanding Business Fundamentals",
+            "link": "https://www.ecornell.com/courses/strategy-and-business-models/"
+          },
+          {
+            "title": "Basic Market Research and User Needs",
+            "link": "https://www.udemy.com/course/user-research/"
+          },
+          {
+            "title": "Product Lifecycle Fundamentals",
+            "link": "https://www.productplan.com/learn/product-lifecycle/"
+          },
+          {
+            "title": "Introduction to Agile & Scrum",
+            "link": "https://www.atlassian.com/agile"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Product Strategy and Roadmapping",
+            "link": "https://www.mindtheproduct.com/product-strategy-roadmaps-training/"
+          },
+          {
+            "title": "User Experience (UX) Design Principles",
+            "link": "https://www.interaction-design.org/literature/topics/ux-design"
+          },
+          {
+            "title": "Data Analytics for Product Managers",
+            "link": "https://www.udacity.com/course/data-analysis-for-product-managers--nd309"
+          },
+          {
+            "title": "Prioritization Frameworks (e.g., RICE, MoSCoW)",
+            "link": "https://www.productplan.com/glossary/prioritization-matrix/"
+          },
+          {
+            "title": "Stakeholder Management & Communication",
+            "link": "https://www.coursera.org/learn/stakeholder-management"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Advanced Product Strategy & Vision",
+            "link": "https://www.svpg.com/books/inspired/"
+          },
+          {
+            "title": "Product-Led Growth (PLG) Strategy",
+            "link": "https://www.productled.org/foundations"
+          },
+          {
+            "title": "Monetization Strategies and Pricing",
+            "link": "https://productmanagerhq.com/monetization-strategies-product-managers/"
+          },
+          {
+            "title": "A/B Testing and Experimentation",
+            "link": "https://www.optimizely.com/optimization-glossary/ab-testing/"
+          },
+          {
+            "title": "Leading Product Teams & Influencing Without Authority",
+            "link": "https://www.ideou.com/pages/design-for-change"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Create a Product Vision Document for a new product",
+            "link": "https://www.youtube.com/results?search_query=Create+a+Product+Vision+Document+for+a+new+product+tutorial"
+          },
+          {
+            "title": "Conduct a competitive analysis and present findings",
+            "link": "https://www.youtube.com/results?search_query=Conduct+a+competitive+analysis+and+present+findings+tutorial"
+          },
+          {
+            "title": "Build a product roadmap for a six-month launch",
+            "link": "https://www.youtube.com/results?search_query=Build+a+product+roadmap+for+a+six-month+launch+tutorial"
+          },
+          {
+            "title": "Write a set of user stories and a PRD (Product Requirements Document)",
+            "link": "https://www.youtube.com/results?search_query=Write+a+set+of+user+stories+and+a+PRD+(Product+Requirements+Document)+tutorial"
+          },
+          {
+            "title": "Design and analyze a simple A/B test for a product feature",
+            "link": "https://www.youtube.com/results?search_query=Design+and+analyze+a+simple+A/B+test+for+a+product+feature+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "Site Reliability Engineer": {
+    "career": "Site Reliability Engineer",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Introduction to Operating Systems",
+            "link": "https://www.coursera.org/learn/os"
+          },
+          {
+            "title": "Basic Linux Command Line",
+            "link": "https://www.udemy.com/course/linux-command-line-basics/"
+          },
+          {
+            "title": "Networking Fundamentals",
+            "link": "https://www.coursera.org/learn/computer-networking"
+          },
+          {
+            "title": "How the Web Works",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web"
+          },
+          {
+            "title": "Version Control with Git",
+            "link": "https://www.coursera.org/learn/introduction-to-git"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Scripting with Python/Bash",
+            "link": "https://www.learnpython.org/ | https://linuxconfig.org/bash-scripting-tutorial-for-beginners"
+          },
+          {
+            "title": "Cloud Provider Essentials (AWS/Azure/GCP)",
+            "link": "https://aws.amazon.com/getting-started/ | https://cloud.google.com/docs/get-started"
+          },
+          {
+            "title": "Containerization with Docker",
+            "link": "https://docs.docker.com/get-started/"
+          },
+          {
+            "title": "Container Orchestration with Kubernetes",
+            "link": "https://kubernetes.io/docs/tutorials/kubernetes-basics/"
+          },
+          {
+            "title": "Infrastructure as Code (Terraform)",
+            "link": "https://developer.hashicorp.com/terraform/tutorials"
+          },
+          {
+            "title": "Configuration Management (Ansible)",
+            "link": "https://www.ansible.com/resources/get-started"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Monitoring & Observability (Prometheus, Grafana)",
+            "link": "https://prometheus.io/docs/introduction/overview/ | https://grafana.com/tutorials/"
+          },
+          {
+            "title": "Log Management (ELK Stack)",
+            "link": "https://www.elastic.co/what-is/elk-stack"
+          },
+          {
+            "title": "Advanced Systems & Troubleshooting",
+            "link": "https://github.com/0xAX/linux-insides"
+          },
+          {
+            "title": "Chaos Engineering & Resilience",
+            "link": "https://www.oreilly.com/radar/introduction-to-chaos-engineering/"
+          },
+          {
+            "title": "Service Level Objectives (SLOs) & Error Budgets",
+            "link": "https://sre.google/sre-book/service-level-objectives/"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Deploy a personal website using a cloud provider and IaC",
+            "link": "https://www.youtube.com/results?search_query=Deploy+a+personal+website+using+a+cloud+provider+and+IaC+tutorial"
+          },
+          {
+            "title": "Containerize an application and deploy it to a Kubernetes cluster",
+            "link": "https://www.youtube.com/results?search_query=Containerize+an+application+and+deploy+it+to+a+Kubernetes+cluster+tutorial"
+          },
+          {
+            "title": "Set up a full monitoring and alerting pipeline for a service",
+            "link": "https://www.youtube.com/results?search_query=Set+up+a+full+monitoring+and+alerting+pipeline+for+a+service+tutorial"
+          },
+          {
+            "title": "Build",
+            "link": "https://www.youtube.com/results?search_query=Build+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "Game Developer": {
+    "career": "Game Developer",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Programming Fundamentals",
+            "link": "https://www.codecademy.com/learn/learn-c-sharp"
+          },
+          {
+            "title": "Intro to Game Engines",
+            "link": "https://learn.unity.com/course/introduction-to-unity"
+          },
+          {
+            "title": "Version Control with Git",
+            "link": "https://docs.github.com/en/get-started/quickstart/hello-world"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "Intermediate C# for Games",
+            "link": "https://learn.unity.com/course/intermediate-scripting"
+          },
+          {
+            "title": "2D Gameplay Mechanics",
+            "link": "https://learn.unity.com/project/2d-game-kit"
+          },
+          {
+            "title": "3D Gameplay Mechanics",
+            "link": "https://learn.unity.com/project/3d-game-kit"
+          },
+          {
+            "title": "Physics and Collisions",
+            "link": "https://docs.unity3d.com/Manual/PhysicsSection.html"
+          },
+          {
+            "title": "User Interface (UI) Design",
+            "link": "https://learn.unity.com/tutorial/ui-components"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Intro to 3D Graphics & Shaders",
+            "link": "https://docs.unity3d.com/Manual/Shaders.html"
+          },
+          {
+            "title": "Multiplayer Networking",
+            "link": "https://docs-multiplayer.unity3d.com/"
+          },
+          {
+            "title": "Game Optimization",
+            "link": "https://docs.unity3d.com/Manual/BestPracticeGuides.html"
+          },
+          {
+            "title": "Scriptable Objects & Architecture",
+            "link": "https://learn.unity.com/tutorial/introduction-to-scriptable-objects"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Create a simple 2D mobile game",
+            "link": "https://www.youtube.com/results?search_query=Create+a+simple+2D+mobile+game+tutorial"
+          },
+          {
+            "title": "Create a local multiplayer party game",
+            "link": "https://www.youtube.com/results?search_query=Create+a+local+multiplayer+party+game+tutorial"
+          },
+          {
+            "title": "Create a 3D first-person prototype",
+            "link": "https://www.youtube.com/results?search_query=Create+a+3D+first-person+prototype+tutorial"
+          },
+          {
+            "title": "Contribute to an open-source game project",
+            "link": "https://www.youtube.com/results?search_query=Contribute+to+an+open-source+game+project+tutorial"
+          }
+        ]
+      }
+    ]
+  },
+  "Product Designer": {
+    "career": "Product Designer",
+    "roadmap": [
+      {
+        "level": "Foundation",
+        "duration": "3–6 months",
+        "topics": [
+          {
+            "title": "Design Thinking",
+            "link": "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
+          },
+          {
+            "title": "UI Design Principles",
+            "link": "https://www.interaction-design.org/literature/article/4-golden-rules-of-ui-design"
+          },
+          {
+            "title": "UX Design Principles",
+            "link": "https://www.nngroup.com/articles/ux-design-definition/"
+          },
+          {
+            "title": "Figma Basics",
+            "link": "https://www.figma.com/resources/learn-design/"
+          },
+          {
+            "title": "Color & Typography",
+            "link": "https://www.interaction-design.org/literature/article/the-role-of-color-in-ux"
+          },
+          {
+            "title": "Wireframing",
+            "link": "https://careerfoundry.com/en/blog/ux-design/what-are-wireframes-guide/"
+          }
+        ]
+      },
+      {
+        "level": "Intermediate",
+        "duration": "6–12 months",
+        "topics": [
+          {
+            "title": "User Research & Personas",
+            "link": "https://www.nngroup.com/articles/user-research-methods/"
+          },
+          {
+            "title": "Information Architecture",
+            "link": "https://www.interaction-design.org/literature/topics/information-architecture"
+          },
+          {
+            "title": "Usability Testing",
+            "link": "https://www.nngroup.com/articles/usability-testing-101/"
+          },
+          {
+            "title": "Interaction Design",
+            "link": "https://www.interaction-design.org/literature/article/what-is-interaction-design"
+          },
+          {
+            "title": "Prototyping",
+            "link": "https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices"
+          },
+          {
+            "title": "Responsive Design",
+            "link": "https://web.dev/learn/design/"
+          }
+        ]
+      },
+      {
+        "level": "Advanced",
+        "duration": "12–18 months",
+        "topics": [
+          {
+            "title": "Design Systems",
+            "link": "https://www.invisionapp.com/inside-design/guide-to-design-systems/"
+          },
+          {
+            "title": "UX Writing & Microcopy",
+            "link": "https://uxdesign.cc/the-ultimate-ux-writing-course-and-resource-list-bf6c8e0f1c25"
+          },
+          {
+            "title": "UX Strategy",
+            "link": "https://uxdesign.cc/ux-strategy-101-727c13c53b3a"
+          },
+          {
+            "title": "Accessibility (a11y)",
+            "link": "https://www.w3.org/WAI/fundamentals/accessibility-intro/"
+          },
+          {
+            "title": "Design Leadership & Stakeholder Management",
+            "link": "https://uxdesign.cc/design-leadership-101-c678c36b213f"
+          },
+          {
+            "title": "Data-Driven Design",
+            "link": "https://www.nngroup.com/articles/analytics-user-experience/"
+          }
+        ]
+      },
+      {
+        "level": "Projects",
+        "duration": "18+ months",
+        "topics": [
+          {
+            "title": "Redesign an existing app or website and document your process",
+            "link": "https://www.youtube.com/results?search_query=Redesign+an+existing+app+or+website+and+document+your+process+tutorial"
+          },
+          {
+            "title": "Design a complete mobile app from concept to",
+            "link": "https://www.youtube.com/results?search_query=Design+a+complete+mobile+app+from+concept+to+tutorial"
+          }
+        ]
+      }
+    ]
+  }
+}

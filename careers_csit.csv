@@ -1,0 +1,26 @@
+career_id,title,description,category
+1,Backend Developer,"Builds APIs, databases, and server-side logic.",Software Development
+2,Frontend Developer,Builds user interfaces and interactive web apps.,Software Development
+3,Full Stack Developer,Works on both frontend and backend systems.,Software Development
+4,Mobile App Developer,Develops Android and iOS applications.,Software Development
+5,Game Developer,Builds games using engines and graphics programming.,Software Development
+6,Data Analyst,Analyzes structured data to extract insights.,Data & AI
+7,Data Scientist,Uses statistics and ML to solve data problems.,Data & AI
+8,Machine Learning Engineer,Builds and deploys ML models.,Data & AI
+9,AI Engineer,Develops AI-driven applications and systems.,Data & AI
+10,Big Data Engineer,Manages large-scale data pipelines.,Data & AI
+11,DevOps Engineer,Automates deployment and CI/CD pipelines.,Cloud & DevOps
+12,Cloud Engineer,Designs and manages cloud infrastructure.,Cloud & DevOps
+13,Site Reliability Engineer,Ensures system reliability and scalability.,Cloud & DevOps
+14,Solutions Architect,Designs end-to-end technical solutions.,Cloud & DevOps
+15,Systems Engineer,Maintains and optimizes system infrastructure.,Cloud & DevOps
+16,Cybersecurity Analyst,Monitors and secures systems from threats.,Security
+17,Security Engineer,Implements secure architectures and defenses.,Security
+18,IT Support Engineer,Provides technical support and troubleshooting.,Security
+19,QA Engineer,Ensures software quality through testing.,Quality Assurance
+20,Automation Test Engineer,Builds automated testing frameworks.,Quality Assurance
+21,UI/UX Designer,Designs user-friendly digital experiences.,Design
+22,Product Designer,Designs product flows and experiences.,Design
+23,Product Manager,Defines product vision and requirements.,Management
+24,Technical Program Manager,Manages large technical programs.,Management
+25,Tech Lead,Leads technical teams and architecture.,Management
